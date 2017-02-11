@@ -19,3 +19,7 @@ The widget has three states:
 These numbers are taken from the console output given by `pmset`, with the command: `/usr/bin/pmset -g batt`
 
 You can view the same battery information in the 'Energy' tab of Activity Monitor.
+
+# Install
+
+Download and run the `Battery` application from the release tab.
